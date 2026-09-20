@@ -1,0 +1,13 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node (если понадобится)
+node_modules/
+
+# Logs
+*.log
